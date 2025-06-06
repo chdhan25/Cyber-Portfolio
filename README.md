@@ -1,4 +1,4 @@
-# Cyber-Portfolio
+# Cyber Portfolio
 Hello 👋 I’m Daniel Han.
 
 I recently graduated in Spring ’25 from Georgia Tech with a B.S. in Computer Science. I'm passionate about cybersecurity and currently building my skills through hands-on projects, certifications, and continuous learning.
