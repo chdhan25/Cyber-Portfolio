@@ -1,7 +1,6 @@
 # Intro to Lan
 
-**Date Completed:** June 28 2025  
-**Status:** ✅ Completed
+**Date Completed:** June 28 2025
 
 ## Key Concepts Learned
 
