@@ -1,4 +1,4 @@
-# 🛡️ Credential Stuffing Attack Simulation – Personal SOC Lab
+# Credential Stuffing Attack Simulation – Personal SOC Lab
 
 **Lab Type:** Credential Stuffing Attack  
 **Environment:** VMware | Kali Linux | Windows 11 | Splunk Enterprise | Ubuntu Server
